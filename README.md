@@ -1,4 +1,4 @@
-# Progressive GAN.
+# Progressive GAN
 
 En este proyecto se trata de explicar el funcionamiento de la arquitectura Progressive GAN, ofreciendo una documentación informativa sobre la misma y un ejemplo práctico de su uso.
 
